@@ -2,7 +2,7 @@
 
 Project to predict the number of citations of an article in 5 years (with XGBoost and feature selection)
 
-# R2score = 0.88
+## R2score = 0.88
 
 P.S
 
